@@ -58,3 +58,4 @@ make run-spark-see-agg-result-example
 - [Apache Seatunnel Home](https://seatunnel.apache.org/)
 - [Apache Seatunnel Github](https://github.com/apache/incubator-seatunnel)
 - [Medium Post: Apache Open-source Projects in Modern Data Stacks](https://medium.com/@ApacheDolphinScheduler/apache-open-source-projects-in-modern-data-stacks-64715c53f6cd)
+- [NYC Taxi Open Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
