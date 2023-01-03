@@ -1,0 +1,7 @@
+# exclude folder seatunnel
+apache-*/
+apache*.tar*
+spark-warehouse/
+*.parquet
+data_source/
+warehouse/
